@@ -188,4 +188,10 @@ This machine learning project focuses on predicting the finalists and winners of
 
 This machine learning project combines data analysis and predictive modeling to provide insights into the ICC Cricket World Cup 2023. The EDA phase explores various aspects of matches in India, while the model-building phase utilizes a neural network for predicting match outcomes.
 
+###The API code to the machine learning model is stored on this repository
+* https://github.com/nirmalshah20519/T02_CP3_API
+
+
 Feel free to customize the content based on specific details or requirements for your project.
+
+
