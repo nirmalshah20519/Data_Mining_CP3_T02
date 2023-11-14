@@ -56,9 +56,9 @@
 - Test the model on the final match data, predicting Team India will score 304 runs in the 1st innings.
 
 
-# Task 2: Predicting the Finalist Teams and Players
+## Task 2: Predicting the Finalist Teams and Players
 
-## Task 2(A): Predicting Finalist Teams
+### Task 2(A): Predicting Finalist Teams
 
 ### Overview:
 This task involves predicting the two finalist teams in the ICC Cricket World Cup 2023 and the 11 players likely to be part of each finalist team.
@@ -98,9 +98,9 @@ This subtask involves predicting the 11 players for each finalist team by combin
 
 
 
-## Overview:
+## Task 3 Predicting the Winner:
 
-This machine learning project focuses on predicting the finalists and winners of the ICC Cricket World Cup 2023. The project is divided into Exploratory Data Analysis (EDA) and Model Building phases.
+This task focuses on predicting the winners of the ICC Cricket World Cup 2023. The project is divided into Exploratory Data Analysis (EDA) and Model Building phases.
 
 ## Exploratory Data Analysis (EDA):
 
@@ -188,10 +188,7 @@ This machine learning project focuses on predicting the finalists and winners of
 
 This machine learning project combines data analysis and predictive modeling to provide insights into the ICC Cricket World Cup 2023. The EDA phase explores various aspects of matches in India, while the model-building phase utilizes a neural network for predicting match outcomes.
 
-### The API code to the machine learning model is stored on this repository
+## The API code to the machine learning model is stored on this repository
 * https://github.com/nirmalshah20519/T02_CP3_API
-
-
-Feel free to customize the content based on specific details or requirements for your project.
 
 
