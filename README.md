@@ -32,7 +32,7 @@
    - Applying one-hot label encoding.
    - Training an XGBoost model.
    - MSE: 3541.0766141535355.
-   - Testing the model on the final match data obtained in Task 3, predicting Team India will score 304 runs in the 1st innings.
+   - Testing the model on the final match data obtained in Task 3, predicting Team India will score 245 runs in the 1st innings.
 
 
 ## Task 2: Predicting the Finalist Teams and Players
