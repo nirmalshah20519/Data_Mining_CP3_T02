@@ -34,27 +34,6 @@
    - MSE: 3541.0766141535355.
    - Testing the model on the final match data obtained in Task 3, predicting Team India will score 304 runs in the 1st innings.
 
-### GitHub README:
-
-#### Task 1(A): Predicting Number of No Balls
-- Handle null values by replacing them with 0.
-- Explore unique values in each column.
-- Select 'noballs' as the target variable.
-- Apply one-hot label encoding.
-- Standardize the data.
-- Train a linear regression model.
-  - Mean Squared Error: 1.92
-- Test the model on the final match data, predicting 1 no ball.
-
-#### Task 1(A): Predicting Total Runs Scored
-- Handle null values by replacing them with 0.
-- Create columns for total runs, runs off bat, extras, wides, no balls, byes, leg-byes, etc.
-- Merge the columns with the data frame.
-- Apply one-hot label encoding.
-- Train an XGBoost model.
-  - Mean Squared Error: 3541.08
-- Test the model on the final match data, predicting Team India will score 304 runs in the 1st innings.
-
 
 ## Task 2: Predicting the Finalist Teams and Players
 
